@@ -1,0 +1,1 @@
+{"best_params": {"conv_filters": 48, "kernel_size": 3, "dense_units_1": 48, "num_units_1": 48, "dropout_rate": 0.4261798317653229, "l2_reg": 3.110163911419158e-06, "learning_rate": 0.0005195254893128255}, "best_value": 0.8706896551724138}
